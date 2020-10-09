@@ -73,7 +73,7 @@
         "required": true
       },
       "TELEGRAPH_TOKEN": {
-        "description": "Generate using python3 generate_telegraph_token.py.",
+        "description": "<a href="https://telegraph-token.sonywegas.repl.run">Click Here To Generate Telegraph Token</a></p>",
         "value": "",
         "required": false
       },
