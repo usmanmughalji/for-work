@@ -1,3 +1,10 @@
+## Compelete Guide to Deploy This Bot on Heroku  [WIP Guide]
+
+1. Fork This Repo
+
+2. Generate Token.Pickle ([Click Here](https://gdrive-token.sonywegas.repl.run))
+
+
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 # What is this repo about?
